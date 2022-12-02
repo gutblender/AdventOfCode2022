@@ -7,7 +7,7 @@ namespace _2021_day2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("2021 Day 1!");
+            Console.WriteLine("2021 Day 2!");
             int pos = 0, depth = 0;
             int p2 = 0, d2 = 0;
 
