@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2021_day3", "2021_day3\2021
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_Rucksacks", "Day3_Rucksacks\Day3_Rucksacks.csproj", "{CEC0DA7A-65C0-42D3-B5E5-2DAC4E9EB117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_Camping", "Day4_Camping\Day4_Camping.csproj", "{8E633C7C-EB1C-4C77-AA9E-C5727406A9A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4_Camping", "Day4_Camping\Day4_Camping.csproj", "{8E633C7C-EB1C-4C77-AA9E-C5727406A9A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_Crane", "Day5_Crane\Day5_Crane.csproj", "{A8FC37A6-E273-475C-8ABB-9522CA8A2385}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{8E633C7C-EB1C-4C77-AA9E-C5727406A9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E633C7C-EB1C-4C77-AA9E-C5727406A9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E633C7C-EB1C-4C77-AA9E-C5727406A9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
