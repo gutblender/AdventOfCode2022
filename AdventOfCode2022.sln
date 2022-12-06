@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_Rucksacks", "Day3_Ruck
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4_Camping", "Day4_Camping\Day4_Camping.csproj", "{8E633C7C-EB1C-4C77-AA9E-C5727406A9A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_Crane", "Day5_Crane\Day5_Crane.csproj", "{A8FC37A6-E273-475C-8ABB-9522CA8A2385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5_Crane", "Day5_Crane\Day5_Crane.csproj", "{A8FC37A6-E273-475C-8ABB-9522CA8A2385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_CommDevices", "Day6_CommDevices\Day6_CommDevices.csproj", "{FAC1F0ED-A654-4256-82E6-464624282FB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8FC37A6-E273-475C-8ABB-9522CA8A2385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC1F0ED-A654-4256-82E6-464624282FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC1F0ED-A654-4256-82E6-464624282FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC1F0ED-A654-4256-82E6-464624282FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC1F0ED-A654-4256-82E6-464624282FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
